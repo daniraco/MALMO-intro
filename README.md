@@ -21,9 +21,8 @@ We have developed a 2D- and 3D-based pipeline for evaluation of whole slide imag
 
 ## Demo Video
 <div align="center">
-  <video src="https://github.com/janan-arslan/MALMO-intro/assets/95415605/b6976458-1ca7-49a9-ae5b-7c1df353cee0">
+  <video src="malmo_base.mp4">
 </div>
-
 
 ## Research Output
 [Reconstruction vasculaire 3D et analyse de lames virtuelles H&E dans l'étude du mélanome](https://hal.science/hal-03928851). *IABM2023 : Colloque Français d'Intelligence Artificielle en Imagerie Biomédicale*, Mar 2023, Paris, France.
