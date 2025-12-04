@@ -21,7 +21,7 @@ We have developed a 2D- and 3D-based pipeline for evaluation of whole slide imag
 
 ## Demo Video
 <div align="center">
-  <video src="malmo_base.mp4">
+  <video width="95%" src="malmo_3D_vid.mp4">
 </div>
 
 ## Research Output
