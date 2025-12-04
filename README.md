@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="45%" src="wsi3d_logo.png" alt="WSI3D Logo">
+  <img width="20%" src="wsi3d_logo.png" alt="WSI3D Logo">
   <p><em>Putting together the puzzle of cancer therapy one piece at a time.</em></p>
 </div>
 
@@ -21,7 +21,9 @@ We have developed a 2D- and 3D-based pipeline for evaluation of whole slide imag
 
 ## Demo Video
 <div align="center">
-  <video width="95%" src="malmo_3D_vid.mp4">
+  <a href="malmo_3D_vid.mp4">
+    <img src="thumbnail.png" width="80%">
+  </a>
 </div>
 
 ## Research Output
